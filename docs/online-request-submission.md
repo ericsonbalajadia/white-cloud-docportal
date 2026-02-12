@@ -2,12 +2,12 @@
 **Target:** AB.010.001
 
 ---
-## Site Map
+### Site Map
 [Project Homepage](project-homepage.md) > **Online Request Submission**
 
 ---
 
-# FR 1.0 - Online Request Submission
+## FR 1.0 - Online Request Submission
 
 Allow requesters to submit repair/service request online through the website
 
@@ -25,7 +25,7 @@ The dashboard shows:
 
 ---
 
-## Use Case: Submit Repair Request
+##   Use Case: Submit Repair Request
 
 ### Summary
 Allows a requester to submit a new service or repair request
