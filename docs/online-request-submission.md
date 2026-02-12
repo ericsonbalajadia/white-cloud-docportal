@@ -2,18 +2,18 @@
 **Target:** AB.010.001
 
 ---
-### Site Map
+#### Site Map
 [Project Homepage](project-homepage.md) > **Online Request Submission**
 
 ---
 
-## FR 1.0 - Online Request Submission
+### FR 1.0 - Online Request Submission
 
 Allow requesters to submit repair/service request online through the website
 
 ---
 
-## Mockup/Wireframe
+#### Mockup/Wireframe
 
 ![Requester Dashboard](images/requester-dashboard.png)
 
@@ -25,23 +25,21 @@ The dashboard shows:
 
 ---
 
-##   Use Case: Submit Repair Request
-
-### Summary
+###   Use Case: Submit Repair Request
 Allows a requester to submit a new service or repair request
 
-### Actors
+#### Actors
 - Requester
 
-### Preconditions
+#### Preconditions
 - Must be logged in into the system
 
-### Postconditions
+#### Postconditions
 - A new request is recorded in the system, awaiting review by the clerk
 
 ---
 
-## Basic Flows
+#### Basic Flows
 
 | Actor Action | System Response |
 |-------------|-----------------|
@@ -50,15 +48,15 @@ Allows a requester to submit a new service or repair request
 
 ---
 
-## Sub-Use Cases
+#### Sub-Use Cases
 
-### 1. [Submit Form](submit-repair-request-submit-form.md)
+#### 1. [Submit Form](submit-repair-request-submit-form.md)
 The requester fills out and submits the repair request form.
 
-### 2. [Upload Photos](submit-repair-request-upload-photos.md)
+#### 2. [Upload Photos](submit-repair-request-upload-photos.md)
 The requester uploads photo attachments for the repair request.
 
-### 3. [Validate Request](submit-repair-request-validate-request.md)
+#### 3. [Validate Request](submit-repair-request-validate-request.md)
 System checks whether the entered data is complete and valid.
 
 ---
