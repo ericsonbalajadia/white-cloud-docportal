@@ -8,7 +8,7 @@
             </td>
         </tr>
         <tr>
-             <td width="60%" valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
+             <td width="25%" valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
                 <h2 style="margin-top: 0;">Site Map</h2>   
                 <a href="project-homepage.md">Project Homepage</a>                                         
                 <p><strong>Requester Requirements</strong></p>
@@ -70,7 +70,7 @@
                         <tr>
                             <td style="padding: 8px;">2025-02-22</td>
                             <td style="padding: 8px;">v1.0.0</td>
-                            <td style="padding: 8px;">Site map revised to align with FR/UR Mapping traceability <br>and Use Case Diagram requirements </td>
+                            <td style="padding: 8px;">Site map revised to align with FR/UR Mapping traceability and Use Case Diagram requirements </td>
                             <td style="padding: 8px;">RD-00671</td>
                             <td style="padding: 8px;">Rojas, Rose Ann <br><small style="font-style: italic; opacity: 0.8;">Designer</small>
                             </td>
