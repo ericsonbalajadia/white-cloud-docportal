@@ -1,5 +1,9 @@
 <div>
     <table width="100%" cellpadding="10" cellspacing="0" style="font-family: Arial, sans-serif; border-collapse: collapse;">
+        <colgroup>
+            <col width="320">  <!-- Fixed width for left column -->
+            <col width="*">    <!-- Right column takes remaining space -->
+        </colgroup>
         <tr>
             <td colspan="2" style="padding-bottom: 20px;">
                 <h1 style="margin: 0;">Maiar</h1>
@@ -8,7 +12,7 @@
             </td>
         </tr>
         <tr>
-             <td width="25%" valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
+             <td valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
                 <h2 style="margin-top: 0;">Site Map</h2>   
                 <a href="project-homepage.md">Project Homepage</a>                                         
                 <p><strong>Requester Requirements</strong></p>
