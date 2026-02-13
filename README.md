@@ -12,7 +12,7 @@
             </td>
         </tr>
         <tr>
-             <td valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
+             <td width="320" valign="top" style="border: 1px solid #e0e0e0; border-right: none; width: 320px; min-width: 320px; max-width: 320px;">
                 <h2 style="margin-top: 0;">Site Map</h2>   
                 <a href="project-homepage.md">Project Homepage</a>                                         
                 <p><strong>Requester Requirements</strong></p>
